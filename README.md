@@ -2,7 +2,7 @@
 ## Description
 A Budget tracker that enables adding expenses and deposits with or without internet connection.
 
-Deployed application can be viewed through the following link: [Budget-Tracker](https://pure-basin-96465.herokuapp.com/)
+Deployed application can be viewed through the following link: [Budget-Tracker](https://budget-tracker-010.herokuapp.com/)
 
 ## Table of Contents
 
@@ -90,7 +90,7 @@ Subtracting Funds works online and offline, once the user adds a NAme of Transac
 ![mmorgan](https://img.shields.io/badge/morgan-blue)
 
 ## Deployed-Application
-The Online/Offline Budget Tracker is deployed on Heroky through the following link: [Budget-Tracker](https://pure-basin-96465.herokuapp.com/) and the database is setup on MongoDB Atlas
+The Online/Offline Budget Tracker is deployed on Heroky through the following link: [Budget-Tracker](https://budget-tracker-010.herokuapp.com/) and the database is setup on MongoDB Atlas
 
 ## Tests
 The Application is tested using the browser through operating it and inspecting to turn it online and offline and make sure that after the application was offline while adding or subtracting funds, the data is still available after going back online. The Database is tested using Robot 3T to make sure that once the user is online the front-end database is populated. 
