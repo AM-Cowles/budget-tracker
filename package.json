@@ -18,12 +18,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/aseppala98/budget-tracker.git"
+        "url": "git+https://github.com/AM-Cowles/budget-tracker"
     },
     "author": "Noha Ashraf",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/aseppala98/budget-tracker/issues"
+        "url": "https://github.com/AM-Cowles/budget-tracker/issues"
     },
-    "homepage": "https://github.com/aseppala98/budget-tracker#readme"
+    "homepage": "https://github.com/AM-Cowles/budget-tracker#readme"
 }
